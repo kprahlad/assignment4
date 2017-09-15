@@ -26,6 +26,6 @@ int main()
 {
   int n;
   cin>>n;
-  srm(n);
+  arm(n);
   return 2;
 }
